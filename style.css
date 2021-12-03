@@ -1,0 +1,64 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+
+
+.photo11{
+    padding: 5px;
+    margin: 0 auto;
+    display:inline-block;
+    padding:20px;
+    
+}
+
+.header{
+    width:1000px;
+    margin:20px auto 10px auto; 
+    padding:30px;
+    text-align: center;
+    background-image: url(cloudimage.jpg);
+    background-size:cover;
+    color: orange;
+
+}
+
+.container{
+    width:1140px;
+    
+}
+
+.other-posts {
+    
+    
+    text-align: right;
+    padding:20px;
+    margin:20px auto 10px auto;
+    
+}
+
+.para{
+    width:50%;
+    margin:30px;
+    font-size: 20px;
+    text-align: justify;
+    margin: bottom 20px;
+    margin:left 10px;
+    
+    
+}
+
+
+.header2{
+    display:inline;
+    text-align: left;
+    color:orange;
+}
+
+.header3{
+    
+}
+
+
+
